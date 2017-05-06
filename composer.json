@@ -1,0 +1,19 @@
+{
+    "name": "erikfig/laravel-crud-traits",
+    "description": "Conjunto de traits para crud no Laravel",
+    "type": "library",
+    "require": {
+        "laravel/framework": "5.4.*"
+    },
+    "authors": [
+        {
+            "name": "Erik Figueiredo",
+            "email": "erik.figueiredo@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ErikFig\\": "src"
+        }
+    }
+}
